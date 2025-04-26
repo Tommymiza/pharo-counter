@@ -1,0 +1,2 @@
+# pharo-counter
+Counter pharo
